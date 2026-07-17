@@ -31,7 +31,7 @@ The solution follows a complete analytics workflow:
 * Achieved an overall prediction accuracy of **84%**.
 * Generated churn predictions that can be integrated into business reporting for proactive customer retention.
 
-### 📈 Power BI Dashboard
+###  Power BI Dashboard
 
 The dashboard provides interactive insights into customer behavior and churn trends through:
 
