@@ -4,7 +4,7 @@ This repository contains an end-to-end **Telecom Customer Churn Analysis and Pre
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 The primary objective of this project is to analyze historical customer behavior, identify the factors contributing to customer churn, and predict future churn using a **Random Forest Classifier**.
 
@@ -16,14 +16,14 @@ The solution follows a complete analytics workflow:
 * Interactive dashboard development using **Power BI**
 * Business insights generated through advanced **DAX measures** and visualizations
 
-### 🔄 ETL & Data Preparation
+###  ETL & Data Preparation
 
 * Data extracted, cleaned, and validated using SQL queries in SQL Server.
 * Missing values, duplicate records, and inconsistent data handled during preprocessing.
 * Additional transformations performed using Power Query in Power BI.
 * Data model designed with optimized relationships between multiple tables.
 
-### 🤖 Customer Churn Prediction
+###  Customer Churn Prediction
 
 * Built a **Random Forest Classifier** to predict customer churn.
 * Performed feature engineering and preprocessing before model training.
@@ -47,7 +47,7 @@ The dashboard provides interactive insights into customer behavior and churn tre
 * Revenue and Customer Distribution
 * Risk Category Visualization based on churn prediction
 
-### 📊 DAX & Business Intelligence
+###  DAX & Business Intelligence
 
 * Custom DAX Measures for KPIs and business metrics
 * Dynamic calculations for churn percentage
@@ -61,7 +61,7 @@ The dashboard provides interactive insights into customer behavior and churn tre
 
 ---
 
-## 🤖 Machine Learning Workflow
+##  Machine Learning Workflow
 
 1. Data Collection from SQL Server
 2. Data Cleaning and Preprocessing
@@ -74,7 +74,7 @@ The dashboard provides interactive insights into customer behavior and churn tre
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 | Metric          | Value                    |
 | --------------- | ------------------------ |
@@ -107,7 +107,7 @@ The model was evaluated using standard classification metrics, including:
 
 ---
 
-## 📊 Dashboard Insights
+##  Dashboard Insights
 
 The dashboard helps answer key business questions such as:
 
@@ -124,7 +124,7 @@ The dashboard helps answer key business questions such as:
 <img width="1158" height="652" alt="Screenshot 2026-07-08 232412" src="https://github.com/user-attachments/assets/861a6e32-0580-4299-b282-c1438dbe9cb4" />
 
 
-## 📌 How to View the Dashboard
+##  How to View the Dashboard
 
 1. Clone or download this repository.
 2. Open the `.pbix` file using **Power BI Desktop**.
@@ -133,7 +133,7 @@ The dashboard helps answer key business questions such as:
 
 ---
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 This project demonstrates an end-to-end business intelligence and machine learning solution by combining:
 
